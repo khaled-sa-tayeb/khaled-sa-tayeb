@@ -18,22 +18,35 @@
 </div>
 
 ---
+<h2>🚀 About Me</h2>
 
-## 👨‍💻 About Me
+<p>
+Computer Science graduate with hands-on experience in <strong>data analytics, machine learning, NLP, and AI-powered systems development</strong>. I enjoy working with large and complex datasets, building data-driven solutions, and turning raw information into meaningful insights and practical applications.
+</p>
 
-I'm a **Computer Science graduate from King Abdulaziz University** with a **4.75/5 GPA and First Class Honors**.
+<ul>
+  <li>🤖 Built <strong>AI-Powered External Auditor</strong> — an AI-based auditing system for analyzing financial data, detecting discrepancies, and validating invoice information using OCR</li>
 
-My main interests are **Data Analysis, Artificial Intelligence, Machine Learning, and NLP**. I enjoy working with data, building practical solutions, and turning complex problems into useful insights.
+  <li>📊 Analyzed and cleaned <strong>1M+ records</strong> during my internship at the <strong>Data Management Office – King Abdulaziz University</strong></li>
 
-* 🎓 B.Sc. in Computer Science — King Abdulaziz University
-* 📊 Data Analysis & Visualization
-* 🤖 Machine Learning & NLP
-* 🐍 Python Development
-* 📈 Power BI & Data-driven solutions
-* 🧹 Large-scale Data Cleaning & Analysis
-* 🚀 Always learning and building
+  <li>📈 Built interactive <strong>Power BI dashboards</strong> to support data-driven decision-making</li>
 
----
+  <li>🧠 Developed a <strong>machine learning classification model</strong> and applied <strong>NLP techniques</strong> to text data</li>
+
+  <li>🐍 Experienced with <strong>Python, Pandas, NumPy, Machine Learning, NLP, and Data Visualization</strong></li>
+
+  <li>🗄️ Designed and implemented a relational <strong>University Library Database</strong> using SQL Server, including schema design, normalization, and query optimization</li>
+
+  <li>🎮 Developed <strong>Leap Hero</strong>, a 2D platformer inspired by <em>Jump King</em> and <em>Celeste</em> using Unity</li>
+
+  <li>🎓 <strong>B.Sc. in Computer Science — King Abdulaziz University</strong></li>
+
+  <li>🏆 <strong>GPA: 4.75/5.00 — First Class Honors</strong></li>
+
+  <li>📚 Completed courses in <strong>Exploratory Data Analysis for Machine Learning</strong> and <strong>Linear Algebra for Machine Learning &amp; Data Science</strong></li>
+
+  <li>🚀 Passionate about <strong>Data Analysis, Artificial Intelligence, Machine Learning, and building practical software solutions</strong></li>
+</ul>
 
 ## 🧰 Tech Stack
 
