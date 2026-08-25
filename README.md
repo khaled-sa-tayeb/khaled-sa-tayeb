@@ -4,7 +4,7 @@
 
 # Hi, I'm Khaled 👋
 
-### Computer Science | AI & Data Analyst
+### <span style="color: #38bdf8;">Computer Science Graduate</span> • <span style="color: #a78bfa;">Data Analyst</span> • <span style="color: #34d399;">AI Enthusiast</span>
 
 <p>
 <a href="https://github.com/khaled-sa-tayeb">
@@ -24,9 +24,11 @@
 
 ## 🚀 About Me
 
-<p>
+<div style="background-color: #1e1e2e; padding: 16px; border-radius: 12px; border-left: 4px solid #38bdf8; margin-bottom: 20px;">
+<p style="color: #cdd6f4; margin: 0; line-height: 1.6;">
 Computer Science graduate with First-Class Honors and a strong foundation in Artificial Intelligence, NLP, and Data Analytics. Proven ability to translate complex datasets into actionable business intelligence, automate workflows with machine learning, and deliver impactful data-driven solutions.
 </p>
+</div>
 
 ---
 
@@ -121,6 +123,6 @@ Computer Science graduate with First-Class Honors and a strong foundation in Art
 
 ### 💡 Build • Learn • Analyze • Solve
 
-⭐ Thanks for visiting my profile!
+<p style="color: #94a3b8; font-size: 14px;">⭐ Thanks for visiting my profile!</p>
 
 </div>
