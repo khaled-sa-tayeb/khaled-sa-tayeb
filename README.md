@@ -25,7 +25,7 @@
 ## 🚀 About Me
 
 <p>
-Computer Science graduate with First-Class Honors[cite: 1] and a strong foundation in Artificial Intelligence, NLP, and Data Analytics[cite: 1]. Proven ability to translate complex datasets into actionable business intelligence, automate workflows with machine learning, and deliver impactful data-driven solutions[cite: 1].
+Computer Science graduate with First-Class Honors and a strong foundation in Artificial Intelligence, NLP, and Data Analytics. Proven ability to translate complex datasets into actionable business intelligence, automate workflows with machine learning, and deliver impactful data-driven solutions.
 </p>
 
 ---
@@ -58,46 +58,46 @@ Computer Science graduate with First-Class Honors[cite: 1] and a strong foundati
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered External Auditor (Senior Project)
-* Developed an AI auditing system processing 500+ invoices with **96.6% validation accuracy** using Python, Pandas, and hybrid OCR (pdfplumber/Tesseract)[cite: 1].
-* Built automated preprocessing pipelines and rule-based logic for multi-variable AR/AP financial reconciliations via a web interface[cite: 1].
+* Developed an AI auditing system processing 500+ invoices with **96.6% validation accuracy** using Python, Pandas, and hybrid OCR (pdfplumber/Tesseract).
+* Built automated preprocessing pipelines and rule-based logic for multi-variable AR/AP financial reconciliations via a web interface.
 
 ### 📈 Student Outcome Prediction Using Machine Learning
-* Developed an end-to-end ML classification pipeline using Python and Scikit-learn, applying SMOTE oversampling to balance dataset classes[cite: 1].
-* Deployed the trained model into a Streamlit web application providing real-time pass/fail predictions with confidence scores[cite: 1].
+* Developed an end-to-end ML classification pipeline using Python and Scikit-learn, applying SMOTE oversampling to balance dataset classes.
+* Deployed the trained model into a Streamlit web application providing real-time pass/fail predictions with confidence scores.
 
 ### ✈️ Flight Delays Dataset Analysis & Dashboard
-* Cleaned and analyzed **5.82M+ flight records** using Python and Pandas[cite: 1].
-* Designed an interactive Power BI dashboard tracking 90K+ cancellations across 322 airports[cite: 1].
+* Cleaned and analyzed **5.82M+ flight records** using Python and Pandas.
+* Designed an interactive Power BI dashboard tracking 90K+ cancellations across 322 airports.
 
 ---
 
 ## 💼 Experience & Leadership
 
-* **📊 Data Management Office — King Abdulaziz University** | *Data Analyst Intern (May 2025 – Aug 2025)*[cite: 1]
-  * Cleaned and analyzed 1M+ records and built Power BI dashboards to improve decision-making[cite: 1].
-  * Developed a machine learning classification model and applied NLP techniques on text data[cite: 1].
-* **🎓 Bravo Me Educational Platform** | *Calculus Tutor (Jan 2024 – Present)*[cite: 1]
-  * Instructed 600+ subscribers in university-level Calculus (MATH 202 & 203), generating 100K+ SAR in revenue[cite: 1].
-* **💻 Pure Platform Company** | *Software Development Intern (Dec 2023 – Jan 2024)*[cite: 1]
-  * Developed web frontends and integrated them with custom backend databases using HTML and JavaScript[cite: 1].
+* **📊 Data Management Office — King Abdulaziz University** | *Data Analyst Intern (May 2025 – Aug 2025)*
+  * Cleaned and analyzed 1M+ records and built Power BI dashboards to improve decision-making.
+  * Developed a machine learning classification model and applied NLP techniques on text data.
+* **🎓 Bravo Me Educational Platform** | *Calculus Tutor (Jan 2024 – Present)*
+  * Instructed 600+ subscribers in university-level Calculus (MATH 202 & 203), generating 100K+ SAR in revenue.
+* **💻 Pure Platform Company** | *Software Development Intern (Dec 2023 – Jan 2024)*
+  * Developed web frontends and integrated them with custom backend databases using HTML and JavaScript.
 
 ---
 
 ## 📚 Education & Certifications
 
-* **Bachelor of Science in Computer Science** — King Abdulaziz University (Aug 2021 – Jun 2026)[cite: 1]
-  * **Advanced Programming Track** | **GPA:** 4.75 / 5.00 — **First Class Honors**[cite: 1]
+* **Bachelor of Science in Computer Science** — King Abdulaziz University (Aug 2021 – Jun 2026)
+  * **Advanced Programming Track** | **GPA:** 4.75 / 5.00 — **First Class Honors**
 * **Certifications & Honors:**
-  * 4 Academic Excellence Awards — King Abdulaziz University[cite: 1]
-  * Exploratory Data Analysis for ML — Coursera[cite: 1]
-  * Linear Algebra for ML & Data Science — Coursera[cite: 1]
+  * 4 Academic Excellence Awards — King Abdulaziz University
+  * Exploratory Data Analysis for ML — Coursera
+  * Linear Algebra for ML & Data Science — Coursera
 
 ---
 
 ## 📌 Other Projects
 
-* **🗄️ Central Library Database Design:** Designed and implemented a relational database for a university library system using SQL Server for schema design, normalization, and query optimization[cite: 1].
-* **🎮 Leap Hero (2D Platformer Game):** Developed a 2D platformer game in Unity using C# inspired by *Jump King* and *Celeste*, focusing on custom character physics, level design, and interactive input systems[cite: 1].
+* **🗄️ Central Library Database Design:** Designed and implemented a relational database for a university library system using SQL Server for schema design, normalization, and query optimization.
+* **🎮 Leap Hero (2D Platformer Game):** Developed a 2D platformer game in Unity using C# inspired by *Jump King* and *Celeste*, focusing on custom character physics, level design, and interactive input systems.
 
 ---
 
