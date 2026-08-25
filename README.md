@@ -4,7 +4,7 @@
 
 # Hi, I'm Khaled 👋
 
-### Computer Science Graduate • Data Analyst • AI Enthusiast
+### Computer Science | AI & Data Analyst
 
 <p>
 <a href="https://github.com/khaled-sa-tayeb">
@@ -25,7 +25,7 @@
 ## 🚀 About Me
 
 <p>
-Computer Science graduate with First-Class Honors and a strong foundation in Artificial Intelligence, NLP, and Data Analytics[cite: 1]. Proven ability to translate complex datasets into actionable business intelligence, automate workflows with machine learning, and deliver impactful data-driven solutions[cite: 1].
+Computer Science graduate with First-Class Honors[cite: 1] and a strong foundation in Artificial Intelligence, NLP, and Data Analytics[cite: 1]. Proven ability to translate complex datasets into actionable business intelligence, automate workflows with machine learning, and deliver impactful data-driven solutions[cite: 1].
 </p>
 
 ---
@@ -105,9 +105,13 @@ Computer Science graduate with First-Class Honors and a strong foundation in Art
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khaled-sa-tayeb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+<a href="https://github.com/khaled-sa-tayeb">
+<img src="https://github-readme-stats.vercel.app/api?username=khaled-sa-tayeb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-sa-tayeb&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<a href="https://github.com/khaled-sa-tayeb">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-sa-tayeb&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</a>
 
 </div>
 
