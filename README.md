@@ -147,13 +147,8 @@ Computer Science graduate with First-Class Honors and a strong foundation in Art
 
 <div align="center">
 
-<a href="https://github.com/khaled-sa-tayeb">
-<img src="https://github-readme-stats.vercel.app/api?username=khaled-sa-tayeb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-</a>
-
-<a href="https://github.com/khaled-sa-tayeb">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-sa-tayeb&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=khaled-sa-tayeb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-sa-tayeb&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 
 </div>
 
