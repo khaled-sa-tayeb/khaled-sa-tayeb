@@ -4,7 +4,7 @@
 
 # Hi, I'm Khaled 👋
 
-### Computer Science | AI & Data Analyst
+### Computer Science Graduate • Data Analyst • AI Enthusiast
 
 <p>
 <a href="https://github.com/khaled-sa-tayeb">
@@ -25,7 +25,7 @@
 ## 🚀 About Me
 
 <p>
-Computer Science graduate with First-Class Honors[cite: 1] and a strong foundation in Artificial Intelligence, NLP, and Data Analytics[cite: 1]. Proven ability to translate complex datasets into actionable business intelligence, automate workflows with machine learning, and deliver impactful data-driven solutions[cite: 1].
+Computer Science graduate with First-Class Honors and a strong foundation in Artificial Intelligence, NLP, and Data Analytics[cite: 1]. Proven ability to translate complex datasets into actionable business intelligence, automate workflows with machine learning, and deliver impactful data-driven solutions[cite: 1].
 </p>
 
 ---
@@ -34,7 +34,7 @@ Computer Science graduate with First-Class Honors[cite: 1] and a strong foundati
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,sql,csharp" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,js,html,sql" />
 </p>
 
 ### 🤖 Data Science & AI
@@ -47,8 +47,9 @@ Computer Science graduate with First-Class Honors[cite: 1] and a strong foundati
 ### 📊 Analytics & Tools
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
