@@ -143,8 +143,6 @@ Computer Science graduate with First-Class Honors and a strong foundation in Art
 
 ---
 
----
-
 <div align="center">
 
 ### 💡 Build • Learn • Analyze • Solve
