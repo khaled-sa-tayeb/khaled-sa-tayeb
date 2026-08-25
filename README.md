@@ -36,7 +36,7 @@ Computer Science graduate with First-Class Honors[cite: 1] and a strong foundati
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,java,js,html,sql" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,sql" />
 </p>
 
 ### 🤖 Data Science & AI
