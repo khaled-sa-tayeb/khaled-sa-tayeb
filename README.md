@@ -4,7 +4,7 @@
 
 # Hi, I'm Khaled 👋
 
-### <span style="color: #38bdf8;">Computer Science Graduate</span> • <span style="color: #a78bfa;">Data Analyst</span> • <span style="color: #34d399;">AI Enthusiast</span>
+### Computer Science | AI & Data Analyst
 
 <p>
 <a href="https://github.com/khaled-sa-tayeb">
@@ -26,7 +26,7 @@
 
 <div style="background: linear-gradient(135deg, #1e1e2e 0%, #2a2a3e 100%); padding: 18px; border-radius: 12px; border-left: 5px solid #38bdf8; box-shadow: 0 4px 6px rgba(0,0,0,0.3); margin-bottom: 20px;">
 <p style="color: #cdd6f4; margin: 0; line-height: 1.7; font-size: 15px;">
-Computer Science graduate with First-Class Honors[cite: 1] and a strong foundation in Artificial Intelligence, NLP, and Data Analytics[cite: 1]. Proven ability to translate complex datasets into actionable business intelligence, automate workflows with machine learning, and deliver impactful data-driven solutions[cite: 1].
+Computer Science graduate with First-Class Honors and a strong foundation in Artificial Intelligence, NLP, and Data Analytics. Proven ability to translate complex datasets into actionable business intelligence, automate workflows with machine learning, and deliver impactful data-driven solutions.
 </p>
 </div>
 
@@ -62,24 +62,24 @@ Computer Science graduate with First-Class Honors[cite: 1] and a strong foundati
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h3 style="color: #89b4fa; margin-top: 0;">🤖 AI-Powered External Auditor (Senior Project)</h3>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Developed an AI auditing system processing 500+ invoices with <b>96.6% validation accuracy</b> using Python, Pandas, and hybrid OCR (pdfplumber/Tesseract)[cite: 1].</li>
-  <li>Built automated preprocessing pipelines and rule-based logic for multi-variable AR/AP financial reconciliations via a web interface[cite: 1].</li>
+  <li>Developed an AI auditing system processing 500+ invoices with <b>96.6% validation accuracy</b> using Python, Pandas, and hybrid OCR (pdfplumber/Tesseract).</li>
+  <li>Built automated preprocessing pipelines and rule-based logic for multi-variable AR/AP financial reconciliations via a web interface.</li>
 </ul>
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h3 style="color: #89b4fa; margin-top: 0;">📈 Student Outcome Prediction Using Machine Learning</h3>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Developed an end-to-end ML classification pipeline using Python and Scikit-learn, applying SMOTE oversampling to balance dataset classes[cite: 1].</li>
-  <li>Deployed the trained model into a Streamlit web application providing real-time pass/fail predictions with confidence scores[cite: 1].</li>
+  <li>Developed an end-to-end ML classification pipeline using Python and Scikit-learn, applying SMOTE oversampling to balance dataset classes.</li>
+  <li>Deployed the trained model into a Streamlit web application providing real-time pass/fail predictions with confidence scores.</li>
 </ul>
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h3 style="color: #89b4fa; margin-top: 0;">✈️ Flight Delays Dataset Analysis & Dashboard</h3>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Cleaned and analyzed <b>5.82M+ flight records</b> using Python and Pandas[cite: 1].</li>
-  <li>Designed an interactive Power BI dashboard tracking 90K+ cancellations across 322 airports[cite: 1].</li>
+  <li>Cleaned and analyzed <b>5.82M+ flight records</b> using Python and Pandas.</li>
+  <li>Designed an interactive Power BI dashboard tracking 90K+ cancellations across 322 airports.</li>
 </ul>
 </div>
 
@@ -88,24 +88,24 @@ Computer Science graduate with First-Class Honors[cite: 1] and a strong foundati
 ## 💼 Experience & Leadership
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
-<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">📊 Data Management Office — King Abdulaziz University | <span style="color: #f9e2af; font-size: 14px;">Data Analyst Intern (May 2025 – Aug 2025)</span>[cite: 1]</h4>
+<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">📊 Data Management Office — King Abdulaziz University | <span style="color: #f9e2af; font-size: 14px;">Data Analyst Intern (May 2025 – Aug 2025)</span></h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Cleaned and analyzed 1M+ records and built Power BI dashboards to improve decision-making[cite: 1].</li>
-  <li>Developed a machine learning classification model and applied NLP techniques on text data[cite: 1].</li>
+  <li>Cleaned and analyzed 1M+ records and built Power BI dashboards to improve decision-making.</li>
+  <li>Developed a machine learning classification model and applied NLP techniques on text data.</li>
 </ul>
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
-<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">🎓 Bravo Me Educational Platform | <span style="color: #f9e2af; font-size: 14px;">Calculus Tutor (Jan 2024 – Present)</span>[cite: 1]</h4>
+<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">🎓 Bravo Me Educational Platform | <span style="color: #f9e2af; font-size: 14px;">Calculus Tutor (Jan 2024 – Present)</span></h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Instructed 600+ subscribers in university-level Calculus (MATH 202 & 203), generating 100K+ SAR in revenue[cite: 1].</li>
+  <li>Instructed 600+ subscribers in university-level Calculus (MATH 202 & 203), generating 100K+ SAR in revenue.</li>
 </ul>
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
-<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">💻 Pure Platform Company | <span style="color: #f9e2af; font-size: 14px;">Software Development Intern (Dec 2023 – Jan 2024)</span>[cite: 1]</h4>
+<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">💻 Pure Platform Company | <span style="color: #f9e2af; font-size: 14px;">Software Development Intern (Dec 2023 – Jan 2024)</span></h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Developed web frontends and integrated them with custom backend databases using HTML and JavaScript[cite: 1].</li>
+  <li>Developed web frontends and integrated them with custom backend databases using HTML and JavaScript.</li>
 </ul>
 </div>
 
@@ -114,16 +114,16 @@ Computer Science graduate with First-Class Honors[cite: 1] and a strong foundati
 ## 📚 Education & Certifications
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
-<h4 style="color: #fab387; margin: 0 0 5px 0;">🎓 Bachelor of Science in Computer Science — King Abdulaziz University (Aug 2021 – Jun 2026)[cite: 1]</h4>
-<p style="color: #bac2de; margin: 0;"><b>Advanced Programming Track</b> | <b>GPA:</b> 4.75 / 5.00 — <b>First Class Honors</b>[cite: 1]</p>
+<h4 style="color: #fab387; margin: 0 0 5px 0;">🎓 Bachelor of Science in Computer Science — King Abdulaziz University (Aug 2021 – Jun 2026)</h4>
+<p style="color: #bac2de; margin: 0;"><b>Advanced Programming Track</b> | <b>GPA:</b> 4.75 / 5.00 — <b>First Class Honors</b></p>
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h4 style="color: #fab387; margin: 0 0 8px 0;">🏆 Certifications & Honors:</h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>4 Academic Excellence Awards — King Abdulaziz University[cite: 1]</li>
-  <li>Exploratory Data Analysis for ML — Coursera[cite: 1]</li>
-  <li>Linear Algebra for ML & Data Science — Coursera[cite: 1]</li>
+  <li>4 Academic Excellence Awards — King Abdulaziz University</li>
+  <li>Exploratory Data Analysis for ML — Coursera</li>
+  <li>Linear Algebra for ML & Data Science — Coursera</li>
 </ul>
 </div>
 
@@ -133,12 +133,12 @@ Computer Science graduate with First-Class Honors[cite: 1] and a strong foundati
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h4 style="color: #94e2d5; margin: 0 0 5px 0;">🗄️ Central Library Database Design</h4>
-<p style="color: #bac2de; margin: 0;">Designed and implemented a relational database for a university library system using SQL Server for schema design, normalization, and query optimization[cite: 1].</p>
+<p style="color: #bac2de; margin: 0;">Designed and implemented a relational database for a university library system using SQL Server for schema design, normalization, and query optimization.</p>
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h4 style="color: #94e2d5; margin: 0 0 5px 0;">🎮 Leap Hero (2D Platformer Game)</h4>
-<p style="color: #bac2de; margin: 0;">Developed a 2D platformer game in Unity using C# inspired by <i>Jump King</i> and <i>Celeste</i>, focusing on custom character physics, level design, and interactive input systems[cite: 1].</p>
+<p style="color: #bac2de; margin: 0;">Developed a 2D platformer game in Unity using C# inspired by <i>Jump King</i> and <i>Celeste</i>, focusing on custom character physics, level design, and interactive input systems.</p>
 </div>
 
 ---
