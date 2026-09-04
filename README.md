@@ -117,7 +117,7 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
-<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">🎓 Bravo Me Educational Platform | <span style="color: #f9e2af; font-size: 14px;">Calculus Tutor (Jan 2024 – Present)</span></h4>
+<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">🎓 Bravo Me Educational Platform | <span style="color: #f9e2af; font-size: 14px;">Calculus Tutor (Jan 2024 – Present)</span> — <a href="https://linktr.ee/Khaled_tayeb">View on Platform</a></h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
   <li>Instructed 600+ subscribers in university-level Calculus (MATH 202 & 203), generating 100K+ SAR in revenue.</li>
 </ul>
@@ -154,10 +154,10 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h4 style="color: #fab387; margin: 0 0 8px 0;">🏆 Certifications & Honors</h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>4 Academic Excellence Awards — King Abdulaziz University (2021–2026)</li>
-  <li>Linear Algebra for Machine Learning & Data Science — Coursera (34 hrs)</li>
-  <li>Calculus for Machine Learning and Data Science — Coursera (26 hrs)</li>
-  <li>Exploratory Data Analysis for Machine Learning — Coursera (14 hrs)</li>
+  <li>4 Academic Excellence Awards — King Abdulaziz University (2021–2026) — <a href="https://lnkd.in/p/dMZa7ua2">View Certificate</a></li>
+  <li>Linear Algebra for Machine Learning & Data Science — Coursera (34 hrs) — <a href="https://coursera.org/share/02c93465ceb9fe635b45aca6081d937e">View Certificate</a></li>
+  <li>Calculus for Machine Learning and Data Science — Coursera (26 hrs) — <a href="https://coursera.org/share/468aae4a7c04e88a578557c6fd1782c6">View Certificate</a></li>
+  <li>Exploratory Data Analysis for Machine Learning — Coursera (14 hrs) — <a href="https://coursera.org/share/a75e75c1e31816ee6a629bf5ee05967b">View Certificate</a></li>
 </ul>
 </div>
 
