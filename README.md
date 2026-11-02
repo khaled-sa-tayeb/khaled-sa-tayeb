@@ -39,13 +39,14 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,sql,nodejs,express" />
 </p>
 
 ### 🤖 Data Science & AI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-4F46E5?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV/OCR](https://img.shields.io/badge/OCR%20(Tesseract)-32363F?style=for-the-badge&logo=opencv&logoColor=white)
@@ -57,6 +58,8 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-5C2D91?style=for-the-badge&logo=regex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -67,17 +70,17 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h3 style="color: #89b4fa; margin-top: 0;">🤖 AuditAI — AI-Powered External Auditor (Senior Capstone)</h3>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Built a hybrid PDF extraction pipeline (pdfplumber / Tesseract OCR) achieving a <b>96.6% invoice match rate</b> across 400+ real company invoices, cutting a multi-day manual audit process.</li>
-  <li>Engineered automated VAT validation, duplicate/sequence detection, and AR/AP reconciliation modules — achieving <b>0 VAT errors</b> across 400+ invoices.</li>
+  <li>Built a hybrid PDF extraction pipeline (pdfplumber / Tesseract OCR) achieving a <b>96.6% invoice match rate</b> across 400+ real company invoices, cutting a <b>weeks-long manual audit to 15–45 minutes</b>.</li>
+  <li>Engineered automated VAT validation, duplicate/sequence detection, and AR/AP reconciliation modules.</li>
   <li>Deployed a full-stack web app (JavaScript, Supabase) for real-time audit dashboards. <a href="https://github.com/khaled-sa-tayeb/AuditAI-AI-Powered-External-Auditor">View on GitHub</a></li>
 </ul>
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
-<h3 style="color: #89b4fa; margin-top: 0;">📈 Student Outcome Prediction Using Machine Learning</h3>
+<h3 style="color: #89b4fa; margin-top: 0;">📈 Student Outcome Prediction | Early-Warning System</h3>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Trained a Random Forest classifier on 1M+ student records (37 features spanning academic, engagement, and demographic data) using SMOTE oversampling, achieving <b>86% accuracy</b>.</li>
-  <li>Deployed the model into an interactive Streamlit app with real-time predictions, confidence scores, and personalized intervention recommendations. <a href="https://github.com/khaled-sa-tayeb/student-outcome-prediction">View on GitHub</a></li>
+  <li>Built 5 Gradient Boosting models (day 30 to 150) on 26K+ course enrollments (OULAD, 10M+ activity logs), with accuracy rising from <b>71% to 86%</b> on unseen students.</li>
+  <li>Deployed as an interactive Streamlit web app with live predictions, key risk drivers, and intervention recommendations. <a href="https://github.com/khaled-sa-tayeb/student-outcome-prediction">View on GitHub</a> | <a href="https://student-outcome-prediction-1.onrender.com/">Live Demo</a></li>
 </ul>
 </div>
 
@@ -85,7 +88,7 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 <h3 style="color: #89b4fa; margin-top: 0;">✈️ Flight Delays Dataset Analysis & Dashboard</h3>
 <ul style="color: #bac2de; margin-bottom: 0;">
   <li>Analyzed <b>5.8M+ flight records</b>, identifying weather as the leading cause of cancellations (~54%).</li>
-  <li>Built a Streamlit tool and Power BI dashboard across 322 airports and 14 airlines, revealing a 62.6% on-time arrival rate. <a href="https://github.com/khaled-sa-tayeb/flight-delays-analysis">View on GitHub</a></li>
+  <li>Built a Streamlit tool and Power BI dashboard across 322 airports and 14 airlines; engineered features for root-cause analysis and measured a 62.6% on-time arrival rate. <a href="https://github.com/khaled-sa-tayeb/flight-delays-analysis">View on GitHub</a></li>
 </ul>
 </div>
 
@@ -93,7 +96,7 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 <h3 style="color: #89b4fa; margin-top: 0;">🗄️ KAU Library Management System</h3>
 <ul style="color: #bac2de; margin-bottom: 0;">
   <li>Designed a normalized relational database (9 entities, 3NF) for a university library system.</li>
-  <li>Built and deployed a full-stack app (FastAPI, SQLite) enforcing business rules at both layers. <a href="https://github.com/khaled-sa-tayeb/KAU-Library-Management-System">View on GitHub</a></li>
+  <li>Built and deployed a full-stack app (FastAPI, SQLite) enforcing business rules at both layers. <a href="https://github.com/khaled-sa-tayeb/KAU-Library-Management-System">View on GitHub</a> | <a href="https://kau-library-management-system.onrender.com/">Live Demo</a></li>
 </ul>
 </div>
 
@@ -111,13 +114,13 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h4 style="color: #a6e3a1; margin: 0 0 8px 0;">📊 Data Management Office — King Abdulaziz University | <span style="color: #f9e2af; font-size: 14px;">Data Analyst Intern (Jun 2025 – Aug 2025)</span></h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Cleaned and analyzed 5.8M+ records and built Power BI dashboards to improve decision-making.</li>
-  <li>Developed a machine learning classification model and applied NLP techniques on text data.</li>
+  <li>Cleaned and analyzed 5.8M+ records and built 3 Power BI dashboards across 3 different domains.</li>
+  <li>Built an early-warning ML model predicting student outcomes (see Featured Projects) and applied NLP to text data.</li>
 </ul>
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
-<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">🎓 Bravo Me Educational Platform | <span style="color: #f9e2af; font-size: 14px;">Calculus Tutor (Jan 2024 – Present)</span> — <a href="https://linktr.ee/Khaled_tayeb">View on Platform</a></h4>
+<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">🎓 Bravo Me Educational Platform | <span style="color: #f9e2af; font-size: 14px;">Calculus Tutor (Dec 2023 – Present)</span> — <a href="https://linktr.ee/Khaled_tayeb">View on Platform</a></h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
   <li>Instructed 600+ subscribers in university-level Calculus (MATH 202 & 203), generating 100K+ SAR in revenue.</li>
 </ul>
@@ -126,7 +129,7 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
 <h4 style="color: #a6e3a1; margin: 0 0 8px 0;">💻 Pure Platform Company | <span style="color: #f9e2af; font-size: 14px;">Software Development Intern (Dec 2023 – Jan 2024)</span></h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
-  <li>Developed web frontends and integrated them with custom backend databases using HTML and JavaScript.</li>
+  <li>Built a full-stack blog app: REST API (Node.js, Express, SQLite) with a Bootstrap/JavaScript frontend.</li>
 </ul>
 </div>
 
