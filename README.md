@@ -39,7 +39,7 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,sql,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,sqlite,nodejs,express" />
 </p>
 
 ### 🤖 Data Science & AI
@@ -58,7 +58,6 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-5C2D91?style=for-the-badge&logo=regex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
