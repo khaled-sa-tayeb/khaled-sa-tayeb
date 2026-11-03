@@ -126,7 +126,7 @@ Computer Science graduate (GPA 4.75/5) with First-Class Honors from King Abdulaz
 </div>
 
 <div style="background-color: #181825; padding: 15px; border-radius: 10px; border: 1px solid #313244; margin-bottom: 12px;">
-<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">💻 Pure Platform Company | <span style="color: #f9e2af; font-size: 14px;">Software Development Intern (Dec 2023 – Jan 2024)</span></h4>
+<h4 style="color: #a6e3a1; margin: 0 0 8px 0;">💻 Pure Platform Company | <span style="color: #f9e2af; font-size: 14px;">Web Development Intern (Dec 2023 – Jan 2024)</span></h4>
 <ul style="color: #bac2de; margin-bottom: 0;">
   <li>Built a full-stack blog app: REST API (Node.js, Express, SQLite) with a Bootstrap/JavaScript frontend.</li>
 </ul>
